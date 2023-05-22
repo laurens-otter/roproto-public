@@ -1,0 +1,16 @@
+{
+    "j0_neglimit": 170,
+    "j1_neglimit": 170,
+    "j2_neglimit": 170,
+    "j3_neglimit": 170,
+    "j4_neglimit": 170,
+    "j0_poslimit": 10,
+    "j1_poslimit": 10,
+    "j2_poslimit": 10,
+    "j3_poslimit": 10,
+    "j4_poslimit": 10,
+    "homingpos":[90,90,90,90,90],
+    "posarray":[[10,10,10,10,90],
+                [90,90,90,90,90]
+]
+}
